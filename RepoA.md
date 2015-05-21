@@ -1,8 +1,4 @@
 # RepoA
 RepoA
 
-TEST DE LA BRANCHE DEV !!
-
-+1 LOLOL
-
-DEV -> MASTER
+REPO MASTER
